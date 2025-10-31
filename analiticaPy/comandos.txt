@@ -1,0 +1,19 @@
+## Estos son los comandos que se utilizan antes de empezar el proyecto
+
+1. Para crear nuestro entorno de trabajo ejecutamos: esto creara una carpeta con el nombre que el usuario quiera
+
+        python -m venv %Nombre_Proyecto% 
+
+2. Instalamos nuestras librerias que vamos a usar para este proyecto:
+
+        PRIMERO APLICAMOS 3.
+
+        pip install requests pandas matplotlib seaborn
+
+3. Como correr el entorno
+
+        %nombre_proyecto%\Scripts\activate
+
+4. Para desactivar
+
+        deactivate
